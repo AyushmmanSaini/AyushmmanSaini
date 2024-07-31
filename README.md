@@ -22,11 +22,7 @@
 
 <p  align="left">
 
-<a  href="https://linkedin.com/in/ayushmman-saini"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="ayushmman-saini"  height="30"  width="40"  /></a>
-
-<a  href="https://www.hackerrank.com/ayushman8111998"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  alt="ayushman8111998"  height="30"  width="40"  /></a>
-
-<a  href="https://www.leetcode.com/ayushmman_saini"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="ayushmman_saini"  height="30"  width="40"  /></a>
+<a  href="https://linkedin.com/in/ayushmman-saini"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="ayushmman-saini"  height="30"  width="40"  /></a><a  href="https://www.hackerrank.com/ayushman8111998"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  alt="ayushman8111998"  height="30"  width="40"  /></a><a  href="https://www.leetcode.com/ayushmman_saini"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="ayushmman_saini"  height="30"  width="40"  /></a>
 
 </p>
 
